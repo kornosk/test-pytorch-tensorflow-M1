@@ -1,4 +1,5 @@
 # Test Pytorch / TensorFlow on M1
+Super simple Code and resources to test training a CNN on M1 macbook.
 
 ## Install PyTorch and TensorFlow for M1
 - PyTorch: see this [blog](https://towardsdatascience.com/yes-you-can-run-pytorch-natively-on-m1-macbooks-and-heres-how-35d2eaa07a83).
