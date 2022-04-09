@@ -25,3 +25,6 @@ python mnist_cnn_tf.py  43.96s user 18.72s system 64% cpu 1:37.17 total
 - Model: MacBook Pro (16-inch, 2021)
 - Chip: Apple M1 Pro
 - RAM: 32 GB
+
+## More comprehensive evaluations
+- Please see [this blog](https://wandb.ai/tcapelle/apple_m1_pro/reports/Deep-Learning-on-the-M1-Pro-with-Apple-Silicon---VmlldzoxMjQ0NjY3).
